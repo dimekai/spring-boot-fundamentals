@@ -1,2 +1,5 @@
-package com.platzi.springboot.fundamentos.bean;public interface MyBeanWithProperties {
+package com.platzi.springboot.fundamentos.bean;
+
+public interface MyBeanWithProperties {
+    String funcStr();
 }
