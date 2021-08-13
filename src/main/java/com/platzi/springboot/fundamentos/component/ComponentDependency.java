@@ -1,2 +1,5 @@
-package com.platzi.springboot.fundamentos.component;public interface ComponentDependency {
+package com.platzi.springboot.fundamentos.component;
+
+public interface ComponentDependency {
+    void saludar();
 }
